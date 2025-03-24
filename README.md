@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-** Testing Git
+** Testing Git - First Test Repo on Rails by Jake Milo
